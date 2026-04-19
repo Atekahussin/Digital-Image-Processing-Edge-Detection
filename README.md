@@ -30,7 +30,7 @@ Below is a sample of the edge detection result achieved by the tool:
 
 ## 📁 Repository Structure
 - `Code/`: Contains the `File Project.ipynb` with the full implementation.
-- `Images/`: Contains the original images and the processed results.
+- `Images/`: Contains the original images.
 
 ## 👥 The Team
 Developed by Computer Science students at **King Faisal University**:
