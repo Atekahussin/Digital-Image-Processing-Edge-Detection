@@ -17,7 +17,8 @@ The tool follows a structured workflow to ensure high-quality edge extraction:
 ## 🚀 Key Results
 Below is a sample of the edge detection result achieved by the tool:
 
-![Edge Detection Result](./Images/image_b0fc0a.png)
+![Edge Detection Result](./Images/<img width="796" height="503" alt="detection result" src="https://github.com/user-attachments/assets/7886f2ae-b37a-4e6f-920d-5faf96e509b5" />
+.png)
 
 ## 🚀 Key Features
 - **Noise Filtering:** Integrated Gaussian blur for better result accuracy.
